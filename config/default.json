@@ -1,0 +1,4 @@
+{
+    "mongoURI":  "mongodb://techchief:tech123456@ds161894.mlab.com:61894/mern_shopping",
+    "JWTSecret": "sl_myJWTSecret"
+}
